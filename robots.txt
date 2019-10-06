@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uquaekuhe.axlle.net/sitemap.xml
